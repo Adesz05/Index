@@ -2,3 +2,8 @@
 width: 400px;
 height: 400px;    
 }
+body{
+    font-style: italic;
+    font-size: 48px;
+    text-align: center;
+}
