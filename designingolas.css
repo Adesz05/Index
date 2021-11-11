@@ -11,3 +11,10 @@ body{
 #sometext{
     color: black;
 }
+a{
+    color: crimson;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
