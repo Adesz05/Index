@@ -22,3 +22,13 @@ height: 100px;
 #szoveg2{
     text-align: left;
 }
+
+#adams{
+    float: left;
+    color: lime;
+}
+#pityesz{
+    float: right;
+    color: lime;
+}
+
